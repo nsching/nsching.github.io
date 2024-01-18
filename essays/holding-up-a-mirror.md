@@ -25,7 +25,4 @@ It’s hard for me to decipher if JavaScript is easier because I now have three 
 As a former athlete, and someone who likes to get things done in the most efficient way possible without giving up quality, I appreciate the concept behind athletic software engineering. I like the style of learning because I believe we learn best from our mistakes, and we can’t make mistakes if we never try. As an athlete, we don’t just practice our skills right before a big game or an important meet. We practice throughout the week every day so that when it comes to high-pressure and high-stakes moments, we can have trust in ourselves to do what we’ve been practicing. We condition and push ourselves to do things that we know we might not be able to succeed at the first try because that’s how we become stronger and better athletes. This principle was true for me as a volleyball player, diver, and pole vaulter, and now I know this will be true for me as a coder.
 
 
-![image](https://github.com/nsching/nsching.github.io/assets/143790749/3a9ecfe4-dff3-4b8d-9528-559c3ef8a3b1)
-
-
 
