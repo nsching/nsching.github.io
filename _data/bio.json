@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science: Data Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
     "location": { "address": "N/A", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "nsching", "url": "" },
+      { "network": "github", "username": "nsching", "url": "https://github.com/nsching" },
       { "network": "linkedin", "username": "Natalie Ching", "url": "https://www.linkedin.com/in/natalie-ching-96749a253/" },
     ]
   },
