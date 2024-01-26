@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "There are no dumb questions?"
 date: 2024-01-25
-published: true
+published: false
 labels:
   - Software Engineering
   - StackOverflow
