@@ -1,19 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
-# All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+title: "There are no dumb questions?"
+date: 2024-01-25
 published: true
 labels:
   - Software Engineering
-  - Learning
+  - StackOverflow
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+In Eric Raymond’s [essay](http://www.catb.org/esr/faqs/smart-questions.html), “How to ask questions the smart way,” he provides a very useful guide for software engineers on how to ask meaningful questions to get meaningful answers when interacting in this open source community setting. In summary, he outlines that it is important for software engineers to do research before asking, provide context, and be specific to respect the time and expertise of those who may answer to get helpful and meaningful responses when seeking out assistance online. In software engineering, communication is vital to everyone working in the field to get ideas and helpful information across efficiently between other software engineers and the client.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+## StackOverflow… like the error?
+StackOverflow is a big point of collaboration when it comes to those learning and actively using any coding language. This website is a place where computer programmers can ask questions, receive answers, and give some answers of their own. Here we can observe some threads that pose as examples for questions asked the “smart way,” according to Eric Raymond’s essay, and some that aren’t.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+### “Smart” Q’s
+In one [thread](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array), we see that someone is inquiring about the processing time of a sorted array versus an unsorted array. They follow and meet many of the requirements that Eric Raymond talks about in his essay. Firstly, it is clear that they did research beforehand. They show an example of their code in Java because they wanted to see if the language type was the reason for their output. They sought out a solution to their question and tried to answer it on their own before reaching out to others online for help. Next, they provide context for their question, walking the reader through their thought process and where or why they became stumped. Lastly, they are able to convey their ideas using precise and easy-to-understand language, which respects the time of those who might have the expertise and knowledge to provide a meaningful answer. It doesn’t use overly ambitious language and run-on sentences. Rather it uses formatting like bullet points and breaks the question up into paragraphs so that it is easier for the reader to comprehend. The code is also properly formatted and easy to read.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+### “Not-so-smart” Q’s
+In another [thread](https://stackoverflow.com/questions/77884443/is-in-python-a-deep-json-parsing), we can find an example of someone not quite following the outlines set in the “How to ask questions the smart way” essay. Here we find someone reaching out for help, but asking their question in an unclear way. Although we want our questions to be precise, this question is too short and has no detail on the context of the situation, other than the language they are using. The grammar and word choice make it very difficult for the reader to understand what the person is asking, and there is no evidence that they attempted to do research beforehand on top of it. Since it is an unclear question, those who might have the expertise to answer it will most likely scroll past it and choose to not answer because it would take them extra time to try and understand what this person is trying to ask in the first place.
+
+## Insights gained
+Searching through StackOverflow and reading different questions people have posted throughout the years has given me more clarity on what examples of good and not-so-good questions can look like. Reading some of the not-so-good questions put me in the shoes of the reader where I have no context on why or what this person wants to know. It forced me to take on a different perspective that I can utilize when I write my own inquiries. This way I can be a better writer of questions that I want answers to.
