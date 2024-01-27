@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/trees.png
+image: img/trees-copy.png
 title: "Giving back to the land and its people"
 date: 20224-01-24
 published: true
