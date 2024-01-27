@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/website1.jpg
-title: "Micromouse"
-date: 2015
+title: "Website Development Intern"
+date: 2024-01-25
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Website
+  - WordPress
+  - Collaboration
+summary: "I interned with a fitness company to collaborate with the owner and create a new website for them."
 ---
 
 <div class="text-center p-4">
