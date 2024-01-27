@@ -13,8 +13,9 @@ summary: "As community service chair, I'm in charge of scheduling at least one c
 
 <img class="img-fluid" src="../img/trees.png">
 <img class="img-fluid" src="../img/microplastic.png">
+<img class="img-fluid" src="../img/ihs.png">
 
 
-This past November in 2023
+This past November and December in 2023
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
