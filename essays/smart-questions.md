@@ -11,6 +11,9 @@ labels:
   - StackOverflow
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/questions.png" >
 In Eric Raymond’s [essay](http://www.catb.org/esr/faqs/smart-questions.html), “How to ask questions the smart way,” he provides a very useful guide for software engineers on how to ask meaningful questions to get meaningful answers when interacting in this open source community setting. In summary, he outlines that it is important for software engineers to do research before asking, provide context, and be specific to respect the time and expertise of those who may answer to get helpful and meaningful responses when seeking out assistance online. In software engineering, communication is vital to everyone working in the field to get ideas and helpful information across efficiently between other software engineers and the client.
 
 ## StackOverflow… like the error?
