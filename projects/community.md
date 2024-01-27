@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/trees.png
 title: "Giving back to the land and its people"
-date: 20223
+date: 2023
 published: true
 labels:
   - Community Service
