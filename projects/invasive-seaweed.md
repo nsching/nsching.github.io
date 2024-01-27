@@ -8,7 +8,7 @@ published: true
 labels:
   - Ecoysystems
   - YouTube
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "I created a YouTube video as a PSA to the residents and those visiting Hawaii about the invasive seaweed problem in Maunalua Bay."
 ---
 <div class="ratio ratio-4x3 my-4">
   <iframe src="https://www.youtube.com/watch?v=7EjPo7JJSfg" 
