@@ -10,6 +10,9 @@ labels:
   - Data Science
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/software.png" >
 On an airplane back from my diving states competition in Hilo, I sat next to a father and daughter pair flying back from a robotics competition. The father in the pair asked me what I wanted to study in college, and when I told him I was deciding between dentistry and statistics, he told me to go with dentistry because I wouldn't go anywhere with statistics. Every time I expressed to people that I enjoyed statistics, they would tell me that I wouldn't be able to do anything with it and that I should pursue a career in medicine.
 
 ## A leap of faith
