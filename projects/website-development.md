@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/website1.jpg
 title: "Micromouse"
 date: 2015
 published: true
