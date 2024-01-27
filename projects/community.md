@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: 
-title: "A Very Thankful November"
-date: 20224-11
+title: "Giving back to the land and its people"
+date: 20224-01-24
 published: true
 labels:
   - Community Service
