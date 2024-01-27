@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
-<img class="https://drive.google.com/file/d/1WNp-H86pH8ef6CWhx97-jukjy0O1h0tw/view">
+<img class="img/invasive-seaweed.png">
 
 
 
