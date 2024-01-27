@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cover.png
-title: "Website Development Intern"
+title: "Website Design Intern"
 date: 2023
 published: true
 labels:
