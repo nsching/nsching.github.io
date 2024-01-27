@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/website1.jpg
+image: img/cover.png
 title: "Website Development Intern"
 date: 2024-01-25
 published: true
