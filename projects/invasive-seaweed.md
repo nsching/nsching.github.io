@@ -10,7 +10,7 @@ labels:
   - YouTube
 summary: "I created a YouTube video as a PSA to the residents and those visiting Hawaii about the invasive seaweed problem in Maunalua Bay."
 ---
-<img width="200px" 
+<img width="20000px" 
      class="rounded float-start pe-4" 
      src="../img/invasive-seaweed.png" >
 
