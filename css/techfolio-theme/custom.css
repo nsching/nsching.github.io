@@ -1,7 +1,6 @@
-/* Lime Theme: modifies the default theme to inject a wee bit o' green in various places. */
+/* Bitter Theme: modifies the default theme to use Bitter as the default font. */
 
-/* Use Open Sans as the default font. */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Bitter:300,400,500,700|Source+Code+Pro:300,400,500,700");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
@@ -19,11 +18,11 @@
   --tf-projects-bg-color: var(--tf-green4);
 }
 
+/* Format social media icons */
 h1,h2,h3,h4,h5 {
   color: var(--tf-green1);
 }
 
-/* Format social media icons */
 .tf-social {
   display: inline-block;
   fill: var(--tf-green1);
