@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/invasive-seaweed.png
+image: img/invasive-ss.png
 title: "Vacay"
 date: 2015
 published: true
