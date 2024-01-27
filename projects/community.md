@@ -16,7 +16,7 @@ summary: "I plan and collaborate with other local non-profits to do events that 
        src="../img/ihs-copy.png" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../img/microplastics.png" 
+       src="../img/mc.png" 
        class="img-thumbnail" >
   <img width="200px" 
        src="../img/trees.png" 
