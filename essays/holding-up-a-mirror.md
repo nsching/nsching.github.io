@@ -11,6 +11,9 @@ labels:
 ---
 
 ## Facing the mirror
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/mirror.png" >
 Even as a total beginner to JavaScript, I have come to appreciate the language. My coding journey began with my freshman year of college at the University of Hawaii at Manoa learning Java. Having no background in coding, learning Java ended up being a formidable challenge. However, with practice and time, each language that I have learned after Java such as C, C++, Python, and now JavaScript, has become easier and easier. Even though the language and syntax are not the same, many concepts and ways of thinking carry over, breaking barriers beyond the language.
 
 ### Taking a closer look
