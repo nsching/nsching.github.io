@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -42,69 +42,80 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "HII",
+      "position": "Workforce Development Intern",
+      "website": "https://hii.com/",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assists in the design and implementation of the workforce development program.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Effectively supervises and mentors the summer intern cohort, providing guidance, support & oversight.",
+        "Pending TS/SCI clearance."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "M&F Fitness",
+      "position": "Website Design Intern",
+      "website": "",
+      "startDate": "2022-04-01",
+      "endDate": "2022-12-01",
+      "summary": "Develops and maintains the company website by implementing design changes and updates.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Collaborates with executive and marketing teams to create appealing and user-friendly web pages aligned with the company."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Beta Beta Gamma",
+      "website": "http://betabetagamma.com/",
+      "position": "Community Service Chair",
+      "startDate": "2023-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Coordinates impactful community service projects with members, local organizations, and community partners.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Develops and maintains strong relationships with community organizations.",
+        "Oversees the scheduling of events and attendance of members."
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "This scholarship is awarded at the start of the student’s Mānoa degree pursuit and is intended to support the student’s enrollment for 4 years, as they progress toward degree completion."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "The Dean’s List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework."
+    },
+    {
+      "title": "Valedictorian",
+      "date": "2022",
+      "awarder": "'Iolani School",
+      "summary": "`Iolani valedictorians are students who have earned all A’s in their time at ‘Iolani as well as those with higher weighted GPAs."
+    },
+    {
+      "title": "The Edward K. Hamada Award",
+      "date": "2021",
+      "awarder": "'Iolani School",
+      "summary": "Presented to the members of a varsity team, who, regardless of individual ability, most inspired team achievement through selfless thoughts and deeds, thereby embodying the spirit of 'Iolani One Team."
     }
   ],
   "references": [
