@@ -18,10 +18,10 @@ The UI framework we have been using is Bootstrap. Some argue that UI’s are too
 ## POV UI
 At first glance, a UI page with many lines of different code for various functions might be intimidating because there are so many lines. However, as a beginner, I think that UI Frameworks provide a jumping-off point for the developer. Instead of having to code things from scratch, I can just copy and paste some of the code from the UI Framework’s website and change a few things to make it customized to the website I want to build. In addition, there are other pros UI Frameworks provide. Firstly, it is time efficient you don’t have to think about or build from scratch some aspects, and it is a safe choice because if you use a well-known and widely used program, it was likely tested and debugged many times before it became available for public use.
 
-<img width="400px" 
+<img width="350px" 
      class="rounded float-start pe-4" 
      src="../img/snapchat.png" >
-<img width="400px" 
+<img width="350px" 
      class="rounded float-start pe-4" 
      src="../img/www.png" >
 Many brands that are recognizable use UI Frameworks. For example, Semantic UI was used to build the Snapchat website. It shows that these frameworks are trustworthy because they can create a good, clean aesthetic website for recognizable brands. When websites first came out, they weren’t as aesthetic as the ones we have now because there were no UI Frameworks for novice html users to lean on. Here is a picture of what the first website looked like. There were no graphics or drop-downs because the main focus was its functionality.
