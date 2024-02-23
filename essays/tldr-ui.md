@@ -1,4 +1,19 @@
-TLDR UI
+---
+layout: essay
+type: essay
+title: "TLDR UI"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02-22
+published: true
+labels:
+  - UI Framework
+  - HTML
+---
+
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/mirror.png" >
+
 UI Framework is short for User Interface framework, which is a collection of useful components, libraries, and tools that developers can use to make new user interfaces for websites or applications. They provide sets of code that are aimed at helping people create more consistent and visually appealing UIs without having to code them completely on their own.
 
 Y UI?
