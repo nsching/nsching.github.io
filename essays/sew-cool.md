@@ -8,6 +8,9 @@ labels:
   - Design Patterns
   - Software Engineering
 ---
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/sewing.png" >
 
 A Seamstress and a Software Engineer might have more in common than you think…
 
@@ -23,6 +26,4 @@ The Singleton design pattern is a creational pattern that makes sure a class has
 
 ## Sew what then?
 In the end, we can see design patterns in different disciplines, such as sewing and software engineering, highlighting similarities in problem-solving approaches. Just as seamstresses use patterns as templates for creating garments, software engineers leverage design patterns as reusable solutions to common design problems. These patterns not only provide a foundation for innovation but also enhance efficiency by avoiding the need to reinvent the wheel. By recognizing and applying these patterns, developers can streamline their development process and create more robust and flexible software solutions.
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="../img/sewing.png" >
+
