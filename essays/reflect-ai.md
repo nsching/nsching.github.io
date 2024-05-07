@@ -20,7 +20,9 @@ Artificial intelligence is something my generation both loves and fears. AI’s 
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
-I would sometimes use ChatGPT when completing experience WODs because AI can be useful in helping me see problems from a different angle when I get stuck. Sometimes I just need to hear 
+
+I would sometimes use ChatGPT when completing experience WODs because AI can be useful in helping me see problems from a different angle when I get stuck. Sometimes I just need to hear the question rephrased to make it click in my head. I usually didn't have to use ChatGPT often because I could just watch the webcast if I got really stuck on a problem.
+
   2. In-class Practice WODs
      
   3. In-class WODs
