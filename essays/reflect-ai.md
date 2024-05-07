@@ -1,4 +1,4 @@
- ---
+---
 layout: essay
 type: essay
 title: "AI: A Honey Trap For Students"
