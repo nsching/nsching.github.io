@@ -1,4 +1,4 @@
----
+ ---
 layout: essay
 type: essay
 title: "Reflect on AI (CHANGE TITLE)"
@@ -9,9 +9,9 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="200px" 
+<img width="400px" 
      class="rounded float-start pe-4" 
-     src="../img/mirror.png" >
+     src="../img/reflect-ai.png" >
 
      ### I. Introduction
 
