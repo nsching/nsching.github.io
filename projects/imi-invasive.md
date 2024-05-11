@@ -10,7 +10,7 @@ labels:
   - Meteor
   - React
   - Collaboration
-summary: "My team, Island Invaders, designed and created a web-application using Meteor React to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species."
+summary: "My team created a Meteor React web-application to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species."
 ---  
 # 'Imi means "search" in ʻŌlelo Hawaiʻi
 <img width="200px" 
@@ -28,7 +28,7 @@ To see our entire process, you can visit our [project page]([https://islandinvad
     <img width="400px" class="rounded float-start pe-4" src="../img/landing-2.png">
 </div>
 
-One of my main focuses of the website was making it look professional and different from the Meteor React template that we started off with. 
+
 
 
 ## What I learned
