@@ -20,7 +20,7 @@ Invasive species pose a significant threat to local ecosystems, causing ecologic
 
 ‘Imi Invasive aims to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem. It should serve as an educational resource and also a centralized app for people to report and help manage invasive species across the Hawaiian Islands.
 
-To see our entire process, you can visit our [project page]([https://islandinvaders.github.io/]), or check out our group's [Island Invaders organization page]([https://github.com/islandinvaders]), if you want to see the source code and learn more about it. 
+To see our entire process, you can visit our [project page]([https://islandinvaders.github.io/]), or check out our group's [Island Invaders organization page]([https://github.com/islandinvaders]), to see the source code and learn more about it. 
 
 ## My constributions
 <div style="display: flex; flex-direction: column;">
