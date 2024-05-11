@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" 
+<img width="300px" 
      class="rounded float-start pe-4" 
      src="../img/software-engin.png" >
 
