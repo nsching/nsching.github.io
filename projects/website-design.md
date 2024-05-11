@@ -4,7 +4,7 @@ type: project
 image: img/cover.png
 title: "Website Design Intern"
 date: 2023
-published: true
+published: false
 labels:
   - Website
   - WordPress
