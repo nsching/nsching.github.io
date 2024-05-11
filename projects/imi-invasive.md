@@ -10,7 +10,7 @@ labels:
   - Meteor
   - React
   - Collaboration
-summary: "My team created a web-application to address invasive species management challenges by establishing a community to educate people on invasive species."
+summary: "My team created a web-application using Meteor React to address invasive species management challenges by establishing a community to educate people on invasive species."
 ---  
 # 'Imi means "search" in ʻŌlelo Hawaiʻi
 <img width="200px" 
