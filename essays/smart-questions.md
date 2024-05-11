@@ -4,7 +4,7 @@ type: essay
 title: "There are no dumb questions?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: True
+published: False
 labels:
   - Questions
   - Answers
