@@ -27,6 +27,8 @@ To see our entire process, you can visit our [project page]([https://islandinvad
     <img width="400px" class="rounded float-start pe-4" src="../img/landing.png">
     <img width="400px" class="rounded float-start pe-4" src="../img/landing-2.png">
   <div>
+
+    
 One of my main focuses of the website was making it look professional and different from the Meteor React template that we started with. For example, I moved the login to its own component at the top of the page instead of having it in the NavBar. Throughout this project, I edited mostly the style.css file and the landing page. A lot of the effort I put into this project was outside of coding, which I was okay with because I had learned a lot about making functional Meter React web applications during our Experience WODs we did for homework. 
 
 I designed an original logo to make us stand out and to help portray our organization. I added a mongoose as our mascot because it is one of the most recognizable invasive species to local people in Hawaii. Through our web application's aesthetics, I wanted to portray the nature-centric theme of our organization. 
