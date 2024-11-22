@@ -4,7 +4,7 @@ type: project
 title: "r/Vietnam Sentiment Analysis in Python
 published: true
 ---
-
+```python
 import praw
 import pandas as pd
 import re
