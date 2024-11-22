@@ -21,4 +21,4 @@ I mentor the summer cohorts for HII's internship program. Every year, we break t
 
 To aid my group, I developed a Reddit scraper using a Python Reddit API Wrapper (PRAW) to collect posts and comments from the r/Vietnam subreddit containing mentions of China and the US. Using this data, I was able to conduct a sentiment analysis using TextBlob and generate sentiment scores to evaluate Vietnam's public opinion of the US and China. I then used these sentiment scores and Matplotlib to create a bar graph to visualize my results more clearly.
 
-To see my ipynb file [click here!](projects/vietnam-sentiment-python.md)
+To see my ipynb file [click here!](nsching.github.io/projects/vietnam-sentiment-python.md)
