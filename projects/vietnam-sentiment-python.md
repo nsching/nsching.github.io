@@ -4,7 +4,7 @@ type: project
 image: img/code.png
 title: "r/Vietnam Sentiment Analysis in Python"
 date: July 2024
-published: true
+published: false
 labels:
   - Sentiment Analysis
   - Python
