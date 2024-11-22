@@ -1,8 +1,15 @@
 ---
 layout: project
 type: project
+image: img/code.png
 title: "r/Vietnam Sentiment Analysis in Python"
+date: July 2024
 published: true
+labels:
+  - Sentiment Analysis
+  - Python
+  - Code
+summary: "My code written in Python"
 ---
 
 ```python
