@@ -13,7 +13,7 @@ labels:
   - Sentiment Analysis
 summary: "I created a sentiment analysis that pulled posts and comments from the r/Vietnam to potentially see how the people in Vietnam feel about the US and China."
 ---
-<img width="700px" 
+<img width="600px" 
      class="rounded float-start pe-4" 
      src="../img/vietnam.png" >
 
